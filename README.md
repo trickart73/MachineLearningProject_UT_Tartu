@@ -3,7 +3,7 @@
 
 ## Machine Learning project - Autumn Semester 2020 (Kerli Mooses, Maarja Pajusalu, Liisi Panov, Victor Rebecq)
 
-###Abstract
+### Abstract
 We finally managed to have nearly 80% of accuracy with different techniques, on some predictions (like if someone is healthy).
 We also managed to tell that is really hard to predict this kind of stuff because there is a huge lack of data.
 
